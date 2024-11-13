@@ -1,5 +1,5 @@
 # Hello, welcome to the project!
-Aa chrome extension that forces dark mode on websites that don’t offer it, giving users a more consistent browsing experience.<br>
+A chrome extension that forces dark mode on websites that don’t offer it, giving users a more consistent browsing experience.<br>
 
 It is helpful for users who prefer dark mode for eye comfort, especially for late-night reading.<br>
 ## Steps to access it in your system
